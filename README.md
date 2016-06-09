@@ -17,6 +17,7 @@ It is tiny (2kB, including dependencies).
 
 >**New! Learn Redux from its creator:  
 >[Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) (30 free videos)**
+>[Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) (27 free videos)**
 
 ### Testimonials
 
